@@ -1,0 +1,16 @@
+.produits {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-rows: 1fr 1fr ;
+    column-gap: 10px;
+}
+
+
+
+
+.items {
+    background-color: aqua;
+    border: 1px solid green;
+    
+    height: 30px;
+}

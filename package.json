@@ -7,7 +7,7 @@
     "doc": "doc"
   },
   "scripts": {
-    "sass": "sass --watch main.scss"
+    "sass::watch": "sass --watch scss:css"
   },
   "author": "",
   "license": "ISC",
